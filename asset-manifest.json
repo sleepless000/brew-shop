@@ -1,13 +1,13 @@
 {
   "main.css": "/brew-shop/static/css/main.40a1d58c.chunk.css",
-  "main.js": "/brew-shop/static/js/main.c44d884e.chunk.js",
-  "main.js.map": "/brew-shop/static/js/main.c44d884e.chunk.js.map",
+  "main.js": "/brew-shop/static/js/main.4f29483a.chunk.js",
+  "main.js.map": "/brew-shop/static/js/main.4f29483a.chunk.js.map",
   "runtime~main.js": "/brew-shop/static/js/runtime~main.62864499.js",
   "runtime~main.js.map": "/brew-shop/static/js/runtime~main.62864499.js.map",
   "static/js/2.063ce5bc.chunk.js": "/brew-shop/static/js/2.063ce5bc.chunk.js",
   "static/js/2.063ce5bc.chunk.js.map": "/brew-shop/static/js/2.063ce5bc.chunk.js.map",
   "index.html": "/brew-shop/index.html",
-  "precache-manifest.9366cc3f8181af57d5e00a7fc607f2d3.js": "/brew-shop/precache-manifest.9366cc3f8181af57d5e00a7fc607f2d3.js",
+  "precache-manifest.af7d5fad1b887cbb588b3a71fd1f0dc1.js": "/brew-shop/precache-manifest.af7d5fad1b887cbb588b3a71fd1f0dc1.js",
   "service-worker.js": "/brew-shop/service-worker.js",
   "static/css/main.40a1d58c.chunk.css.map": "/brew-shop/static/css/main.40a1d58c.chunk.css.map"
 }
