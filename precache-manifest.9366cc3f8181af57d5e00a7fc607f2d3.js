@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "11cec3cbb0f7cdf45420",
+    "revision": "c44d884eb68b19e48d38",
     "url": "/brew-shop/static/css/main.40a1d58c.chunk.css"
   },
   {
-    "revision": "11cec3cbb0f7cdf45420",
-    "url": "/brew-shop/static/js/main.11cec3cb.chunk.js"
+    "revision": "c44d884eb68b19e48d38",
+    "url": "/brew-shop/static/js/main.c44d884e.chunk.js"
   },
   {
     "revision": "6286449930b609af4a71",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/brew-shop/static/js/2.063ce5bc.chunk.js"
   },
   {
-    "revision": "5744e9939ba0e1d82657f3f2f2e83b74",
+    "revision": "a9f7b60fffb6e5c70fb7a21aa2ded640",
     "url": "/brew-shop/index.html"
   }
 ];
